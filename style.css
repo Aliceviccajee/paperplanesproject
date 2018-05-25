@@ -5,7 +5,42 @@ Template:	  Storefront
 
 p.site-description {
 	text-align: center;
+	width: 100%;
 }
+
+/* Title */
+.beta {
+	text-align: center;
+}
+
+/*how to change the size of the title font?*/
+.site-branding .site-title a {
+    font-weight: 100;
+    letter-spacing: 20px;
+    font-size: 70px;
+}
+
+a.site-title {
+	font-size: 100px;
+}
+
+/* nav */
+
+.main-navigation {
+	text-align: center;
+}
+
+.woocommerce-active .site-header .site-branding {
+	width: 100%;
+	float: none;
+}
+
+.woocommerce-active .site-header .main-navigation {
+	width: 100%;
+	float: none;
+}
+
+
 
 
 
